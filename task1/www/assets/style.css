@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background: #6c757d;
+}
+
+img {
+    display: flex;
+    width: 50vw;
+    margin: 10px auto;
+}
